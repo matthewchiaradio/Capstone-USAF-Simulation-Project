@@ -1,1 +1,3 @@
 # Capstone-USAF-Simulation-Project
+
+For my Capstone project, I worked in a group with Robins Air Force Base to test a new work method. The simulation model evaluates the effectiveness of organizing resources by functional cells rather than the traditional program-based structure. This approach aims to optimize program manager allocation and improve overall efficiency. We used AnyLogic to build the simulation, and it includes process mapping to better understand how functional cells operate. The project also features a GUI for easy user interaction as this simulation will be used by IEs with little coding experience. Ultimately, the goal is to provide a tool that the Air Force can use to determine if this new method of doing work is better than their current method.
